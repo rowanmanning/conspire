@@ -10,6 +10,14 @@ Generate frightening and very believable conspiracy theories.
 **Build Status:** [![Build Status][travis-img]][travis]
 
 
+Examples
+--------
+
+- The Queen's diamond jubilee never actually happened. It was faked by News International.
+- CERN have been using dolphins for arms trafficking since the 1970s.
+- The CIA are brainwashing cats for a Washington takeover.
+
+
 Install
 -------
 
