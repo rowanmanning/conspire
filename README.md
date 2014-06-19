@@ -4,7 +4,7 @@ Conspire
 
 Generate frightening and very believable conspiracy theories.
 
-**Current Version:** *1.0.0*  
+**Current Version:** *1.0.1*  
 **Node Support:** *0.10.x, 0.11.x*  
 **License:** [MIT][mit]  
 **Build Status:** [![Build Status][travis-img]][travis]
