@@ -1,0 +1,31 @@
+{
+    "name": "conspire",
+    "version": "0.0.0",
+
+    "description": "Generate frightening and believable conspiracy theories",
+    "keywords": [ "conspiracy", "generator", "theory" ],
+    "author": "Rowan Manning (http://rowanmanning.com/)",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowanmanning/conspire.git"
+    },
+    "homepage": "https://github.com/rowanmanning/conspire",
+    "bugs": "https://github.com/rowanmanning/conspire/issues",
+    "license": "MIT",
+
+    "engines": {
+        "node": ">=0.10"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "jshint": "~2.5",
+        "mocha": "~1.20",
+        "proclaim": "~2.0"
+    },
+
+    "main": "./lib/conspire.js",
+    "scripts": {
+        "test": "make test"
+    }
+}
