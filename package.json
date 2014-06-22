@@ -1,6 +1,6 @@
 {
     "name": "conspire",
-    "version": "1.0.1",
+    "version": "1.1.0",
 
     "description": "Generate frightening and very believable conspiracy theories",
     "keywords": [ "conspiracy", "generator", "theory" ],
