@@ -4,6 +4,8 @@ Conspire
 
 Generate frightening and very believable conspiracy theories.
 
+**⚠️ NOTE: This project is no longer being maintained. If you're interested in taking over maintenance, please contact me.**
+
 **Current Version:** *1.1.0*  
 **Node Support:** *0.10.x, 0.11.x*  
 **License:** [MIT][mit]  
